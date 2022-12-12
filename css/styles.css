@@ -172,11 +172,14 @@ background-color: var(--primery-tetx-color);
   padding-bottom: 120px;
 }
 .section.no-padding {
+  padding-top: 0px;
+  padding-bottom: 120px;
+}
+.section.padding {
   padding-top: 96px;
   padding-bottom: 120px;
 }
-
-
+ 
 .section-title {
   margin-top: 0;
   margin-bottom: 72px;
